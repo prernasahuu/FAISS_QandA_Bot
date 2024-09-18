@@ -1,0 +1,10 @@
+#install packages
+langchain
+gradio
+OpenAI
+faiss-cpu sentence-transformers
+#import libaries
+os
+faiss
+SentenceTransformer
+gradio as gr
