@@ -1,9 +1,9 @@
 # Question And Answer_Bot
-###Objective: 
+### Objective: 
 To build a Question and Answer Bot that will help to generate response to query on the basis of given Context.
 In this project, I have used word embeddings using the MiniLM-v6 model and integrated it with the FAISS vector database to build a robust RAG pipeline. The input for the bot was taken as paragraphs("context"), allowing the model to understand context and provide domain specific and top ranked answers to the query efficiently.
 
-###About Vector-DataBase:
+### About Vector-DataBase:
 FAISS (Facebook AI Similarity Search) is an open-source library designed for efficient similarity search and clustering of dense vectors. This enabled me to build a responsive and scalable Q&A system that excels at finding relevant information from large amounts of data.
 It can handle massive datasets, making it highly scalable and provides fast, memory-efficient algorithms for quick Approximate Nearest Neighbor (ANN) searches. This enabled me to build a responsive and scalable Q&A system that excels at finding relevant information from large amounts of data.
 
